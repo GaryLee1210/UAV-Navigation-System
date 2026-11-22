@@ -48,7 +48,7 @@
 | **桨叶** | **Gemfan 5147(三叶)** | 高效 5 寸桨 |
 | **遥控系统** | **RadioLink AT9S Pro + R12DSM** | 可靠控制链路 |
 
-- [机架结构](./hardware/airframe/)：碳纤维板图纸和机架装配模型。
+- [机架结构](./hardware/airframe/)：碳纤维板图纸、机架装配模型和[电池架（STEP）](./hardware/airframe/battery-mount.stp)。
 - [3D 打印件](./hardware/3d-printed-parts/)：降压模块护罩、起落架连接件和机载计算机外壳。
 - [物料清单（BOM）](./BOM.xlsx)：零件、线材和工具清单。
 
