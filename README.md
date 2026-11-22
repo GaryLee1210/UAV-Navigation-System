@@ -48,7 +48,9 @@ The drone is built on a custom 250mm carbon fiber frame, featuring a high-perfor
 | **Propellers** | **Gemfan 5147 (3-blade)** | Efficient 5-inch props |
 | **RC System** | **RadioLink AT9S Pro + R12DSM** | Reliable control link |
 
-📄 **For a complete list of parts, cables, and tools, please check the [BOM List](./BOM.xlsx).**
+- [Airframe CAD files](./hardware/airframe/) — carbon-fiber plate drawing and frame assembly model.
+- [3D-printed parts](./hardware/3d-printed-parts/) — buck converter guard, landing gear connector, and onboard computer enclosure.
+- [Bill of materials (BOM)](./BOM.xlsx) — parts, cables, and tools.
 
 ## 🧩 Software Architecture
 
