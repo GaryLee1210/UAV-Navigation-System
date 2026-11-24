@@ -158,7 +158,7 @@ roslaunch exploration_manager exploration_real.launch
 
 ## 🙏 致谢
 
-本项目基于以下优秀开源工作:
+本项目基于以下优秀开源工作：
 [hku-mars/FAST_LIO](https://github.com/hku-mars/FAST_LIO)、
 [vectr-ucla/direct_lidar_inertial_odometry](https://github.com/vectr-ucla/direct_lidar_inertial_odometry)、
 [ZJU-FAST-Lab/Fast-Drone-250](https://github.com/ZJU-FAST-Lab/Fast-Drone-250)(EGO-Planner)、
